@@ -10,6 +10,34 @@ Fonte: [DATASET UCL](https://www.kaggle.com/datasets/azminetoushikwasi/ucl-20212
 
 <hr>
 
+### Estrutura do arquivo .csv
+
+player_name: Nome do jogador<br>
+club: Clube em que atuava<br>
+position: Posição do campo (<strong>Goalkepper:</strong> Goleiro, <strong>Defender:</strong> Defensor, <strong>Midfielder:</strong> Meio Campo, <strong>Forward:</strong> Atacante)<br>
+minutes_played: Minutos jogados<br>
+match_played: Partidas jogadas<br>
+goals: Gols marcados<br>
+assists: Assistências feitas<br>
+distance_covered: Distância percorrida<br>
+
+### Variáveis criadas
+
+club_performance<br>
+weak_points<br>
+top_10_by_position<br>
+positions<br>
+consistent_player<br>
+avg_distance_by_position<br>
+best_players<br>
+most_offensive_team<br>
+heatmap_data<br>
+player_of_the_season<br>
+
+<hr>
+
+<h1>Análise</h1>
+
 <h2>1. Bibliotecas</h2>
 
 ```python
