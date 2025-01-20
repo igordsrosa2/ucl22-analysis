@@ -10,6 +10,14 @@ Fonte: [DATASET UCL](https://www.kaggle.com/datasets/azminetoushikwasi/ucl-20212
 
 <hr>
 
+### Estrutura do repositório
+
+LICENSE - Arquivo de licença do repositório
+README.md - Arquivo readme do repositório
+UCL Dashboard.pbix - Arquivo de dashboard do power bi
+UCL_21_22.ipynb - Arquivo jupyter notebook criado no google colaboratory
+key_stats.csv - Arquivo .csv onde contém as informações usadas para análise
+
 ### Estrutura do arquivo .csv
 
 player_name: Nome do jogador<br>
