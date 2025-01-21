@@ -273,9 +273,9 @@ print("Jogador da Temporada:\n", player_of_the_season[['player_name', 'club', 'p
 
 <h1>DASHBOARD POWER BI</h1>
 
-![{CB6EAADA-AD15-4250-86E5-49A230341B69}](https://github.com/user-attachments/assets/32568a99-5e73-4634-b4d6-65e513d01286)
+![{A946B98F-7F16-4C5A-9C7A-CE98FB5947D8}](https://github.com/user-attachments/assets/c982f92e-c5d5-4312-baaa-039ba30893e1)
 
-Faça o download do arquivo <strong>Dashboard.pbix</strong> para visualizar o relatório ou entre no link [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjRkMGM3NDItMzY2OS00NmQ0LWJkZGMtM2E1OWJjM2Y2MDE1IiwidCI6IjdjZDc0M2Y4LTA5MTgtNGU2OC04NGU5LTlkY2Q4MmU0ODBhZiJ9)
+Faça o download do arquivo <strong>Dashboard.pbix</strong> para visualizar o relatório ou [clique aqui](https://app.powerbi.com/view?r=eyJrIjoiZjRkMGM3NDItMzY2OS00NmQ0LWJkZGMtM2E1OWJjM2Y2MDE1IiwidCI6IjdjZDc0M2Y4LTA5MTgtNGU2OC04NGU5LTlkY2Q4MmU0ODBhZiJ9)
 
 
 
